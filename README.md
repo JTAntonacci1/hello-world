@@ -1,2 +1,2 @@
-# hello-world
+# ITC475
 My first Github repository
